@@ -5,4 +5,5 @@
 
 `HTML`
 `Flask`
-`D3` for plot
+`D3`
+`Python` for plot
